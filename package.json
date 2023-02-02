@@ -1,7 +1,7 @@
 {
   "name": "crypto-tracker",
   "version": "0.1.0",
-  "homepage": "https://Anthonyme0328.github.io/crypto_tracker",
+  "homepage": "https://anthonyme0328.github.io/crypto_tracker",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
